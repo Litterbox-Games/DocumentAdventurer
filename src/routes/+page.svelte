@@ -1,5 +1,5 @@
 <script>
-    import Greet from '../lib/Greet.svelte'
+    import FileStats from '../lib/FileStats.svelte';
     import { LightSwitch } from '@skeletonlabs/skeleton';
 </script>
 
@@ -9,4 +9,4 @@
     </h1>
     <LightSwitch />
 </span>
-<Greet />
+<FileStats />
