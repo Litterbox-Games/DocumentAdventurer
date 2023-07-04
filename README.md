@@ -1,10 +1,14 @@
 # DocumentAdventurer
 
-Powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
-
 ## Developing
 
-Once you've created a project and installed dependencies with `npm install`, start a development server:
+To initialize the dependencies for npm, run: 
+
+```bash
+npm install
+```
+
+To start a development server and compile the Rust backend, run:
 
 ```bash
 npm run tauri dev
@@ -12,7 +16,7 @@ npm run tauri dev
 
 ## Building
 
-To create a production version of the app:
+To create a production version of the app, run:
 
 ```bash
 npm run tauri build
