@@ -5,7 +5,7 @@
 To initialize the dependencies for npm, run: 
 
 ```bash
-`npm install`
+npm install
 ```
 
 To start a development server and compile the Rust backend, run:
